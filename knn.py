@@ -1,4 +1,4 @@
-# MLAgorithms from rushter
+# KNN from MLAgorithms authority of rushter
 # coding:utf-8
 
 from collections import Counter
