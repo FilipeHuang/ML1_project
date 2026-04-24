@@ -16,7 +16,7 @@ conda activate <env>
 # Install required packages
 conda install numpy pandas matplotlib seaborn scikit-learn scipy
 ```
-or
+### Option 2: Direct Install
 ```bash
 # Install from ´pip´ with the file given
 pip install -r requirements.txt
